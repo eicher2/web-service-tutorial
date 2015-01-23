@@ -8,7 +8,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>service</module>
         <module>war</module>
         <!--<module>client</module>-->
     </modules>
