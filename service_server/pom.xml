@@ -8,7 +8,7 @@
         <artifactId>web-service-tutorial</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>doubleit</artifactId>
+    <artifactId>service_server</artifactId>
     <packaging>war</packaging>
 
     <dependencies>
